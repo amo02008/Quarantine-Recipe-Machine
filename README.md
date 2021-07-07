@@ -6,9 +6,9 @@
 
 # Team
 
-- Penny, Anthony, Bruce, Andrienne, and Luca
+- Penny, Anthony, Bruce, Adrienne, and Luca
 
-- FrontEnd (Penny, Anthony, Andrienne)
+- FrontEnd (Penny, Anthony, Adrienne)
 - BackEnd (Bruce, Luca)
 
 ---
